@@ -11,7 +11,7 @@ My leetcode Python solution.
 - [0025. Reverse nodes in k-Group](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0025.reverse_nodes_in_k_group.md) - *Hard* 每k个节点一组进行翻转
 - [0061. Rotate Linked List](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0061.rotate_linked_list.md) - *Medium* 链表旋转
 - [0141. Linked List Cycle](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0141.linked_list_cycle.md) - *Easy* 判断链表是否有环
-- [0142. Linked List Cycle II](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0142.linked_list_cycle_ii.md) - *Medium** 在141的基础上，要求进一步给出环入口的位置
+- [0142. Linked List Cycle II](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0142.linked_list_cycle_ii.md) - *Medium* 在141的基础上，要求进一步给出环入口的位置
 - [0206. Reverse Linked List](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0206.reverse_linked_list.md) - *Easy* 反转链表
 - [two_links_intersect](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/two_links_intersect.md) - 判断链表是否相交并找到交点
 
