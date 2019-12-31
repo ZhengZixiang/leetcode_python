@@ -26,6 +26,9 @@ My leetcode Python solution.
 - 快速排序
 
 ## 动态规划
+- [0070. Climbing Stairs](https://github.com/ZhengZixiang/leetcode_python/blob/master/dp/0070.climbing_stairs.md) - *Easy* 爬楼梯
+- [0072. Edit Distance](https://github.com/ZhengZixiang/leetcode_python/blob/master/dp/0072.edit_distance.md) - *Hard* 编辑距离，必练题
+- [0120. Triangle](https://github.com/ZhengZixiang/leetcode_python/blob/master/dp/0120.triangle.md) - *Medium* 求三角形的最小路径和
 
 ## 并查集
 - [0200. Number of Islandas]() - *Medium*
