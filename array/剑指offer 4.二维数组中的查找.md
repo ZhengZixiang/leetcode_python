@@ -1,0 +1,25 @@
+## 问题
+在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
+
+## 解析
+1. 暴力求解，遍历判断
+2. 右上或左下角对比
+```python
+class Solution:
+    # array 二维列表
+    def Find(self, target, array):
+        # write code here
+        found  = True
+        rows = len(array)
+        cols = len(array[0])
+        r = 0
+        c = cols - 1
+        while r < rows and c >= 0:
+            if target == array[r][c]:
+                return True
+            elif target < array[r][c]:
+                c -= 1
+            else:
+                r += 1
+        return False
+```
