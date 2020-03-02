@@ -23,7 +23,7 @@ class Solution:
             return True
         return False
 ```
-这里考虑了书中提到的鲁棒性，也就是抽离出判断函数。上述写法不能保证相对顺序，对于牛客的题，解法1是构造两个分别存奇偶数的数组来保存。
+这里考虑了书中提到的可扩展性，也就是抽离出判断函数。上述写法不能保证相对顺序，对于牛客的题，解法1是构造两个分别存奇偶数的数组来保存。
 ```python
 class Solution:
     def reOrderArray(self, array):
