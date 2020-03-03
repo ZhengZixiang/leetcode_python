@@ -8,6 +8,7 @@ My leetcode Python solution.
 - [剑指offer 12. 矩阵中的路径](https://github.com/ZhengZixiang/leetcode_python/blob/master/array/%E5%89%91%E6%8C%87offer%2012.%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md) - 回溯法
 - [剑指offer 13. 机器人的运动范围](https://github.com/ZhengZixiang/leetcode_python/blob/master/array/%E5%89%91%E6%8C%87offer%2013.%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.md) - 回溯法
 - [剑指offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/ZhengZixiang/leetcode_python/blob/master/array/%E5%89%91%E6%8C%87offer%2021.%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md)
+- [剑指offer 29. 顺时针打印矩阵](https://github.com/ZhengZixiang/leetcode_python/blob/master/array/%E5%89%91%E6%8C%87offer%2029.%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
 
 
 ## 字符串
@@ -27,7 +28,10 @@ My leetcode Python solution.
 - [two_links_intersect](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/two_links_intersect.md) - 判断链表是否相交并找到交点
 - [剑指offer 6. 从尾到头打印链表](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/%E5%89%91%E6%8C%87offer%206.%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
 - [剑指offer 18. 删除链表节点](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/%E5%89%91%E6%8C%87offer%2018.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E8%8A%82%E7%82%B9.md)
-- [剑指offer 22. 链表中倒数第k个节点]()
+- [剑指offer 22. 链表中倒数第k个节点](https://github.com/ZhengZixiang/leetcode_python/tree/master)
+- [剑指offer 23. 链表中环的入口节点](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0142.linked_list_cycle_ii.md) - LeetCode 0142
+- [剑指offer 24. 反转链表](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0206.reverse_linked_list.md) - LeetCode 0206
+- [剑指offer 25. 合并两个排序的链表](https://github.com/ZhengZixiang/leetcode_python/blob/master/link/0021.merge_two_sorted_lists.md)
 
 ## 栈与队列
 - [剑指offer 9. 用两个栈实现队列](https://github.com/ZhengZixiang/leetcode_python/blob/master/stack%26queue/%E5%89%91%E6%8C%87offer%209.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
@@ -37,6 +41,9 @@ My leetcode Python solution.
 - [0106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/ZhengZixiang/leetcode_python/blob/master/binary_tree/106.post_in_build_bst.md) - *Medium* 根据中序遍历和后序遍历重构二叉树
 - [剑指offer 7. 重建二叉树](https://github.com/ZhengZixiang/leetcode_python/tree/master/binary_tree/105.pre_in_build_bst.md) - 同LeetCode 0105
 - [剑指offer 8. 二叉树的下一个节点](https://github.com/ZhengZixiang/leetcode_python/blob/master/binary_tree/%E5%89%91%E6%8C%87offer%208.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+- [剑指offer 26. 树的子结构](https://github.com/ZhengZixiang/leetcode_python/blob/master/binary_tree/%E5%89%91%E6%8C%87offer%2026.%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)
+- [剑指offer 27. 二叉树的镜像](https://github.com/ZhengZixiang/leetcode_python/blob/master/binary_tree/%E5%89%91%E6%8C%87offer%2027.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
+- [剑指offer 28. 对称的二叉树](https://github.com/ZhengZixiang/leetcode_python/blob/master/binary_tree/%E5%89%91%E6%8C%87offer%2028.%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 ## 二分查找
 - [find_min_in_rotate_array](https://github.com/ZhengZixiang/leetcode_python/blob/master/binary_search/find_min_in_rotate_array.md) - 查找旋转数组中的最小元素
